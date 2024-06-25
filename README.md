@@ -7,9 +7,9 @@ __Vihanga Herath__
 > - tensorflow -- 2.16.1
 > - music21 -- 9.1.0
 > #### Tools
-> - MuseScore [[Link]](https://musescore.org/en)
+> - [MuseScore](https://musescore.org/en)
 > #### DataSet
-> - Kern Scores Dataset [[Link]](https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl)
+> - [Kern Scores Dataset](https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl)
 > #### To paly with this code
 > - download this repo
 > - create a virtual environment and install the dependencies using __requirements.txt__
@@ -60,7 +60,7 @@ See [preprocess.py](preprocess.py) for the source code.
 ##  Model Architecture
 <div style="display: flex; justify-content: space-around;">
     <img src="images\05_model_architecture.png" alt="05_model_architecture" width="200"/>
-    <img src="images\06_model_summary.png" alt="06_model_summary" width="500"/>
+    <img src="images\06_model_summary.png" alt="06_model_summary" width="300"/>
 </div>
 
 ## Model Training
