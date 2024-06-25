@@ -4,7 +4,7 @@ __Vihanga Herath__
 > #### Python Version
 > - Python 3.10.6
 > #### Main Libraries
-> - tensorflow -- 2.16.1
+> - tensorflow -- 2.15.0
 > - music21 -- 9.1.0
 > #### Tools
 > - [MuseScore](https://musescore.org/en)
