@@ -60,7 +60,7 @@ See [preprocess.py](preprocess.py) for the source code.
 ##  Model Architecture
 <div style="display: flex; justify-content: space-around;">
     <img src="images\05_model_architecture.png" alt="05_model_architecture" width="200"/>
-    <img src="images\06_model_summary.png" alt="06_model_summary" width="500"/>
+    <img src="images\06_model_summary.png" alt="06_model_summary" width="550"/>
 </div>
 
 ## Model Training
