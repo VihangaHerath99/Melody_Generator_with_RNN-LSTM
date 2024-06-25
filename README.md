@@ -59,14 +59,19 @@ See [preprocess.py](preprocess.py) for the source code.
 
 ##  Model Architecture
 <div style="display: flex; justify-content: space-around;">
-    <img src="images\05_model_architecture.png" alt="05_model_architecture" width="250"/>
-    <img src="images\06_model_summary.png" alt="06_model_summary" width="600"/>
+    <img src="images\05_model_architecture.png" alt="05_model_architecture" width="200"/>
+    <img src="images\06_model_summary.png" alt="06_model_summary" width="500"/>
 </div>
 
 ## Model Training
 The model is trained for 50 epochs using the 'sparse_categorical_crossentropy' loss function and the 'Adam optimizer'.  
 See [train.py](train.py) for the source code.
-![image_007](<images\07_loss curve.png>)
+
+<!-- ![image_007](<images\07_loss curve.png>) -->
+
+<img src="images\07_loss curve.png" alt="image_007" width="600"/>
+
+
 
 ## Generating Melodies
 
